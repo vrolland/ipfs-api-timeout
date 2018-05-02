@@ -1,0 +1,7 @@
+{
+  "name": "ipfs-api-timeout",
+  "version": "20.2.0",
+  "dependencies": {
+    "ipfs-api": "20.2.0"
+  }
+}
